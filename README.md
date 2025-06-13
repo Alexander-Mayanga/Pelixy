@@ -6,11 +6,11 @@ Aplicación Android nativa desarrollada con Java y SQLite, que permite ver pelí
 
 Integrantes del grupo
 
-CESAR ALEXANDER MAYANGA MINAYA
-JAIME CCAPACCA MERINO
-JEAN CARLOS FASABI OROSCO
-OSMAR MAURICIO MARCA PEÑA
-DEYSI ARACELY QUINTANA JUAREZ
+1) Cesar Alexander Mayanga Minaya
+2) Jaime Ccapacca Merino
+3) Jean Carlos Fasabi Orosco
+4) Osmar Mauricio Marca Peña
+5) Deysi Aracely Quintana Juarez
 
 ## 🧠 Estructura de la Base de Datos
 -- Crear base de datos
